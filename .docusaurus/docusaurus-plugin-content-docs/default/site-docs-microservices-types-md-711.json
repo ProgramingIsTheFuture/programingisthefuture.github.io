@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Microservices/types",
+  "id": "Microservices/types",
+  "title": "Types of microservices",
+  "description": "Hello",
+  "source": "@site/docs/Microservices/types.md",
+  "sourceDirName": "Microservices",
+  "slug": "/Microservices/types",
+  "permalink": "/Microservices/types",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Microservices/types.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "types",
+    "title": "Types of microservices"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Microservices",
+    "permalink": "/Microservices/intro"
+  }
+}

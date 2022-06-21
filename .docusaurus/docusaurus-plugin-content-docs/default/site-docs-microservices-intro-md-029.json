@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Microservices/intro",
+  "id": "Microservices/intro",
+  "title": "Microservices",
+  "description": "Hello Micro",
+  "source": "@site/docs/Microservices/intro.md",
+  "sourceDirName": "Microservices",
+  "slug": "/Microservices/intro",
+  "permalink": "/Microservices/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Microservices/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Microservices"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Types of microservices",
+    "permalink": "/Microservices/types"
+  }
+}

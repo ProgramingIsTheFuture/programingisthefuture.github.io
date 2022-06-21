@@ -1,0 +1,49 @@
+{
+  "blogPosts": [
+    {
+      "id": "mdx-blog-post",
+      "metadata": {
+        "permalink": "/blog/mdx-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+        "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+        "title": "Microservices with Golang Test",
+        "description": "Try golang to build microservices!!",
+        "date": "2021-08-01T00:00:00.000Z",
+        "formattedDate": "August 1, 2021",
+        "tags": [
+          {
+            "label": "go",
+            "permalink": "/blog/tags/go"
+          },
+          {
+            "label": "microservices",
+            "permalink": "/blog/tags/microservices"
+          }
+        ],
+        "readingTime": 0.025,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "ProgramingIsTheFuture",
+            "title": "Test",
+            "url": "https://github.com/ProgramingIsTheFuture",
+            "imageURL": "https://github.com/programingisthefuture.png",
+            "key": "ProgramingIsTheFuture"
+          }
+        ],
+        "frontMatter": {
+          "slug": "mdx-blog-post",
+          "title": "Microservices with Golang Test",
+          "authors": [
+            "ProgramingIsTheFuture"
+          ],
+          "tags": [
+            "go",
+            "microservices"
+          ]
+        }
+      },
+      "content": "Try golang to build microservices!!"
+    }
+  ]
+}

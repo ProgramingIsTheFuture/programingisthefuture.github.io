@@ -1,0 +1,62 @@
+{
+  "/blog-3c4": {
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/archive-f4c": {
+    "component": "9e4087bc",
+    "archive": "b2f554cd"
+  },
+  "/blog/mdx-blog-post-bee": {
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/blog/tags-e13": {
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/go-421": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "metadata": "fc3deafd"
+  },
+  "/blog/tags/microservices-ec7": {
+    "component": "6875c492",
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f4f34a3a"
+      }
+    ],
+    "metadata": "40e2aa62"
+  },
+  "/-be3": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/-bab": {
+    "component": "17896441",
+    "content": "0e384e19"
+  },
+  "/Microservices/intro-373": {
+    "component": "17896441",
+    "content": "0296b509"
+  },
+  "/Microservices/types-cff": {
+    "component": "17896441",
+    "content": "71150a03"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Microservices with Golang Test",
+      "permalink": "/blog/mdx-blog-post"
+    }
+  ]
+}

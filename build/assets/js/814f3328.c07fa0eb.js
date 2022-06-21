@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkProgramingIsTheFuture=self.webpackChunkProgramingIsTheFuture||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Microservices with Golang Test","permalink":"/blog/mdx-blog-post"}]}')}}]);

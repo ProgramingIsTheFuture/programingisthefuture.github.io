@@ -8,13 +8,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "ProgramingIsTheFuture",
 	tagline: "Programing is cool",
-	url: "https://ProgramingIsTheFuture.github.com",
+	url: "https://programingisthefuture.github.io",
 	baseUrl: "/",
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",
 	organizationName: "ProgramingIsTheFuture", // Usually your GitHub org/user name.
-	projectName: "ProgramingIsTheFuture", // Usually your repo name.
+	projectName: "programingisthefuture.github.io", // Usually your repo name.
 	presets: [
 		[
 			"classic",
