@@ -8,8 +8,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
 	title: "ProgramingIsTheFuture",
 	tagline: "Programing is cool",
-	url: "https://programingisthefuture.github.io",
+	url: "https://programingisthefuture.github.io/",
 	baseUrl: "/",
+	trailingSlash: true,
 	onBrokenLinks: "throw",
 	onBrokenMarkdownLinks: "warn",
 	favicon: "img/favicon.ico",

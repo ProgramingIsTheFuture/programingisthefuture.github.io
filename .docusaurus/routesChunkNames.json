@@ -1,5 +1,5 @@
 {
-  "/blog-3c4": {
+  "/blog/-393": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -9,21 +9,21 @@
     ],
     "metadata": "b2b675dd"
   },
-  "/blog/archive-f4c": {
+  "/blog/archive/-38a": {
     "component": "9e4087bc",
     "archive": "b2f554cd"
   },
-  "/blog/mdx-blog-post-bee": {
+  "/blog/mdx-blog-post/-f0a": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-e13": {
+  "/blog/tags/-0ff": {
     "component": "01a85c17",
     "sidebar": "814f3328",
     "tags": "a7023ddc"
   },
-  "/blog/tags/go-421": {
+  "/blog/tags/go/-253": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -33,7 +33,7 @@
     ],
     "metadata": "fc3deafd"
   },
-  "/blog/tags/microservices-ec7": {
+  "/blog/tags/microservices/-ce9": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -43,7 +43,7 @@
     ],
     "metadata": "40e2aa62"
   },
-  "/-be3": {
+  "/-758": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
@@ -51,11 +51,11 @@
     "component": "17896441",
     "content": "0e384e19"
   },
-  "/Microservices/intro-373": {
+  "/Microservices/intro/-9ec": {
     "component": "17896441",
     "content": "0296b509"
   },
-  "/Microservices/types-cff": {
+  "/Microservices/types/-6a1": {
     "component": "17896441",
     "content": "71150a03"
   }

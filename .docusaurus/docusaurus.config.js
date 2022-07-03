@@ -6,13 +6,14 @@ Modify the docusaurus.config.js file at your site's root instead.
 export default {
   "title": "ProgramingIsTheFuture",
   "tagline": "Programing is cool",
-  "url": "https://ProgramingIsTheFuture.github.com",
+  "url": "https://programingisthefuture.github.io/",
   "baseUrl": "/",
+  "trailingSlash": true,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "ProgramingIsTheFuture",
-  "projectName": "ProgramingIsTheFuture",
+  "projectName": "programingisthefuture.github.io",
   "presets": [
     [
       "classic",

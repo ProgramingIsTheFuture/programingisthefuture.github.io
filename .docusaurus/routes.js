@@ -4,38 +4,38 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','3c4'),
+    path: '/blog/',
+    component: ComponentCreator('/blog/','393'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive','f4c'),
+    path: '/blog/archive/',
+    component: ComponentCreator('/blog/archive/','38a'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
+    path: '/blog/mdx-blog-post/',
+    component: ComponentCreator('/blog/mdx-blog-post/','f0a'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
+    path: '/blog/tags/',
+    component: ComponentCreator('/blog/tags/','0ff'),
     exact: true
   },
   {
-    path: '/blog/tags/go',
-    component: ComponentCreator('/blog/tags/go','421'),
+    path: '/blog/tags/go/',
+    component: ComponentCreator('/blog/tags/go/','253'),
     exact: true
   },
   {
-    path: '/blog/tags/microservices',
-    component: ComponentCreator('/blog/tags/microservices','ec7'),
+    path: '/blog/tags/microservices/',
+    component: ComponentCreator('/blog/tags/microservices/','ce9'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/','be3'),
+    component: ComponentCreator('/','758'),
     routes: [
       {
         path: '/',
@@ -44,14 +44,14 @@ export default [
         'sidebar': "docs"
       },
       {
-        path: '/Microservices/intro',
-        component: ComponentCreator('/Microservices/intro','373'),
+        path: '/Microservices/intro/',
+        component: ComponentCreator('/Microservices/intro/','9ec'),
         exact: true,
         'sidebar': "docs"
       },
       {
-        path: '/Microservices/types',
-        component: ComponentCreator('/Microservices/types','cff'),
+        path: '/Microservices/types/',
+        component: ComponentCreator('/Microservices/types/','6a1'),
         exact: true,
         'sidebar': "docs"
       }
